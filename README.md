@@ -3,7 +3,7 @@
 </p>
 
 
-# Amateursanonymous
+# Amateurs Anonymous
   This repository contains the all concepts and vision of [Amateurs Anonymous](http://amateursanonymous.github.io/).
 
 
