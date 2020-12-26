@@ -1,9 +1,3 @@
-# <center>Amateurs Anonymous </center>
-# <center>جمعية الهواة المجهولين </center>
-
-
-
-
 ## <center> المبادئ التسعة عشر(١٩) للجمعية</center>
 
 ### <center>  ١-النقد</center>
