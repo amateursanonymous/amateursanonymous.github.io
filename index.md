@@ -79,8 +79,7 @@
 ### <center> ١٩-الخدمة</center>
 
 <center>حيث اننا وجدنا ان هناك صحوة وتطور كبير لأداءنا في حياتنا العملية من خلال تحقيق نتائج ملموسة كنتيجة لتطبيق هذه المبادئ فقد تعهدنا بمحاولة نقل هذه الرسالة إلى الأخرين ومساعدتهم  وايضا ممارسة هذه المبادئ في كل شيء في شؤوننا</center>
-<br><br>
-
+<br>
 ![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
 [Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
 
