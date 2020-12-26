@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+baseURL: https://amateursanonymous.github.io/
+languageCode: en-us
+title: Twitter Open Source
+
+# disable taxonomy pages
+taxonomies: []
+
+permalinks:
+  posts: /:year/:month/:title/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
