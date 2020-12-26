@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 baseURL: https://amateursanonymous.github.io/
 languageCode: en-us
-title: Amateurs Anonymous جمعية الهواة المجهولين
+title: Amateurs Anonymous<br> جمعية الهواة المجهولين
 
 # disable taxonomy pages
 taxonomies: []
