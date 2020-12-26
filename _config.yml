@@ -3,16 +3,4 @@ baseURL: https://amateursanonymous.github.io/
 languageCode: en-us
 title: Amateurs Anonymous<br> جمعية الهواة المجهولين
 
-# disable taxonomy pages
-taxonomies: []
 
-permalinks:
-  posts: /:year/:month/:title/
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  tableOfContents:
-    startLevel: 1
-    endLevel: 9
