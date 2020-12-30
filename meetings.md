@@ -4,4 +4,4 @@
 
 الإجتماعات السابقة               |     بدء إجتماع  جديد
 :-------------------------:|:-------------------------:|
-[![past-meetings](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/meeting-162.png)](https://amateursanonymous.github.io/past-meetings)    |  [![start-a-meeting](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/mic-162.png)](https://amateursanonymous.github.io/start-a-meeting)
+[![past-meetings](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/meeting-162.png)](https://amateursanonymous.github.io/past-meetings)    |  [![start-a-meeting](https://raw.githubusercontent.com/asayedio/amateursanonymous.github.io/start-a-meeting/assets/mic-162.png)](https://amateursanonymous.github.io/start-a-meeting)
