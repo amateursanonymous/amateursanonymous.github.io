@@ -18,4 +18,6 @@
     معلومات اخري | امثلة علي المبادئ | الإجتماعات | نبذة عن الجمعية  | مبادئ الجمعية |  [الصفحة الرئيسية] (https://amateursanonymous.github.io/index-new) 
     
     
-     معلومات اخري | امثلة علي المبادئ | الإجتماعات | نبذة عن الجمعية  | مبادئ الجمعية |  [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new) 
+     معلومات اخري | امثلة علي المبادئ | الإجتماعات | نبذة عن الجمعية  | مبادئ الجمعية |  [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new)
+     
+     [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | معلومات اخري | امثلة علي المبادئ | الإجتماعات | نبذة عن الجمعية
