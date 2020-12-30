@@ -7,10 +7,10 @@
 
  <p> لقد بدأت بحيث يمكن نقل الرسالة الخاصة بجمعية الهواة المجهولين إلى المنضمن حديثا الذي لا يزال يعاني بأكثر الطرق فعالية. فإذا كنت هاوي أو تفكر أو تخطط لبدء اجتماع لابد من:</p>
 
- <p>
+ <div dir="RTL">
    <ol>
        <li><a href="https://amateursanonymous.github.io/principles" target="_blank">قراءة مبادئ المجموعة بعناية</a></li>
        <li><a href="https://amateursanonymous.github.io/meetings" target="_blank">مراجعة جميع الاجتماعات السابقة</a></li>
        <li><a href="" target="_blank">ملئ الفورم الخاصة ببدء اجتماع جديد</a></li>
    </ol>
- </p>
+ </div>
