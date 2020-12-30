@@ -15,7 +15,7 @@
    
    
      
-     [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | معلومات اخري | امثلة علي المبادئ | الإجتماعات | نبذة عن الجمعية
-
-
 [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) 
+
+
+[مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new)
