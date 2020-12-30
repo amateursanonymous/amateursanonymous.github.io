@@ -3,14 +3,12 @@
 
 ## <center> الإجتماعات السابقة </center>
 
-### <center>الإجتماع الأول (15 نوفمبر 2020)</center>
+### <center>الإجتماع الأول (14 نوفمبر 2020)</center>
 <p align="center">
-  <img src="http://img.youtube.com/vi/TrkS_VVPffE/0.jpg" href="https://youtu.be/TrkS_VVPffE"/>
+  <a href="https://youtu.be/TrkS_VVPffE"><img src="http://img.youtube.com/vi/TrkS_VVPffE/0.jpg" alt="جلسة المنتور او الإرشارد 1"/></a>
 </p>
-[![جلسة المنتور او الإرشاد 1](http://img.youtube.com/vi/TrkS_VVPffE/0.jpg)](https://youtu.be/TrkS_VVPffE "جلسة المنتور او الإرشاد 1")
 
-### <center>الإجتماع الثـاني (27 نوفمبر 2020)</center>
+### <center>الإجتماع الثـاني (26 نوفمبر 2020)</center>
 <p align="center">
-  <img src="http://img.youtube.com/vi/aktP_RDeTAc/0.jpg" href="https://youtu.be/aktP_RDeTAc"/>
+  <a href="https://youtu.be/aktP_RDeTAc"><img src="http://img.youtube.com/vi/aktP_RDeTAc/0.jpg" alt=" 2 جلسة المنتور او الإرشاد"/></a>
 </p>
-[![جلسة المنتور او الإرشاد 2](http://img.youtube.com/vi/aktP_RDeTAc/0.jpg)](https://youtu.be/aktP_RDeTAc "جلسة المنتور او الإرشاد 2")
