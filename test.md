@@ -18,4 +18,4 @@
 [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) 
 
 
-[مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new)
+ نبذة عن الجمعية | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new) 
