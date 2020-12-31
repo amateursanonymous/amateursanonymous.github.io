@@ -7,10 +7,10 @@
 [![past-meetings](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/meeting-162.png)](https://amateursanonymous.github.io/past-meetings)    |  [![start-a-meeting](https://raw.githubusercontent.com/asayedio/amateursanonymous.github.io/start-a-meeting/assets/mic-162.png)](https://amateursanonymous.github.io/start-a-meeting)
 
 
-<table style="margin-left:auto;margin-right:auto;">
+<table style="margin-left:auto;margin-right:auto;text-align:center">
   <tr>
-    <td>بدء إجتماع  جديد</td>
-    <td>الإجتماعات السابقة</td>
+    <th style="text-align:center">بدء إجتماع  جديد</th>
+    <th style="text-align:center">الإجتماعات السابقة</th>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://amateursanonymous.github.io/start-a-meeting"><img src="https://raw.githubusercontent.com/asayedio/amateursanonymous.github.io/start-a-meeting/assets/mic-162.png" alt="start-a-meeting"/></a></td>
