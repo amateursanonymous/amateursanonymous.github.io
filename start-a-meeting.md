@@ -14,3 +14,10 @@
        <li><a href="" target="_blank">ملئ الفورم الخاصة ببدء اجتماع جديد</a></li>
    </ol>
  </div>
+ 
+ 
+ 
+<br><br>
+![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
+[Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
+
