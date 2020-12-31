@@ -3,7 +3,7 @@
 ## <center>الإجتماعات </center>
 
 
-<table style="margin-left:auto;margin-right:auto;text-align:center">
+<table style="display: table;width: auto;">
   <tr>
     <th style="text-align:center">بدء إجتماع  جديد</th>
     <th style="text-align:center">الإجتماعات السابقة</th>
