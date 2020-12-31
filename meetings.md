@@ -15,3 +15,9 @@
     <td style="text-align:center"><a href="https://amateursanonymous.github.io/future-meetings"><img src="https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/meeting-162.png" alt="past-meetings"/></a></td>
   </tr>
 </table> 
+
+
+<br><br>
+![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
+[Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
+
