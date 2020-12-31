@@ -1,5 +1,8 @@
 معلومات أخري | امثلة علي المبادئ  |[الإجتماعات](https://amateursanonymous.github.io/meetings) | نبذة عن الجمعية | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new)
 
+## <center>الإجتماعات </center>
+
+
 <table style="margin-left:auto;margin-right:auto;text-align:center">
   <tr>
     <th style="text-align:center">بدء إجتماع  جديد</th>
