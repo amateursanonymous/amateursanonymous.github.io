@@ -5,5 +5,5 @@
 ### <center> الإجتماع الثالث (٢١ يناير ٢٠٢١) </center>
 
 <p align="center">
-  <a href="https://youtu.be/aktP_RDeTAc" target="_blank"><img src="http://img.youtube.com/vi/aktP_RDeTAc/0.jpg" alt=" 3 جلسة المنتور او الإرشاد"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/mentor-soft-session-3-400.png" alt=" 3 جلسة المنتور او الإرشاد"/></a>
 </p>
