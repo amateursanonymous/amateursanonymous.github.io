@@ -1,14 +1,13 @@
 
 
-معلومات أخري | ت](https://amateursanonymous.github.io/meetings)امثلة علي المبادئ  |[الإجتماعات](https://amateursanonymous.github.io/principles-examples) | نبذة عن الجمعية | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io)
+معلومات أخري | [امثلة علي المبادئ](https://amateursanonymous.github.io/principles-examples)  |[الإجتماعات](https://amateursanonymous.github.io/meetings) | نبذة عن الجمعية | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io)
 
 ## <center> امثلة على المبادىء </center>
  <div dir="RTL">
-  <p>هذه المواقف حدثت بالفعل و الهدف من نشرها هو توضيح و تأكيد المبادىء الخاصة بالجمعية</p>
-  
-المثال الاول
-
-<p>
+  <p>هذه المواقف حدثت بالفعل و الهدف من نشرها هو توضيح و التأكيد على المبادىء الخاصة بالجمعية</p>
+### المثال الاول  
+ 
+ <p>
 مدير طلب من احد الموظفين مهمة و قام الموظف بانجازها بنجاح و لكن طلب المدير من الموظف تعديل. 
 الموظف كان يرى ان هذا التعديل صعب تنفيذه و من وجهة نظره ان هذا التعديل ليس له حاجة و ظل الموظف يتجادل مع المدير لاقناعه ان هذا التعديل غير صحيح
 و لكن فى النهاية اسر المدير على تنفيذ هذا التعديل
