@@ -3,6 +3,7 @@
 ## <center> نبذة عن الجمعية </center>
 
 <div dir="rtl">
+
 <h5>جمعية الهواة المجهولين</h5>
 <p>
 جمعية الهواة المجهولين هي منظمة مجتمعية عربية غير هادفة للربح، تأسست عام 2020. تقوم على اجتماعات شهرية للاعضاء لتأهيلهم للحياة الاحترافية في الشركات العالمية 
@@ -40,4 +41,3 @@
 <br><br>
 ![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
 [Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
-
