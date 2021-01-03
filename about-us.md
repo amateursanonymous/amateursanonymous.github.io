@@ -28,12 +28,12 @@
 </p>
 <ul>
     <li>جلسات و اجتماعات شهرية</li>
-    <li>تدريبات مهنية</li>
     <li>تقديم النصح والارشاد</li>
+    <li>تدريبات مهنية</li>
 </ul>
 
 <p>
-الهواة المجهولين هو مشروع مفتوح المصدر يمكن لأي شخص المشاركه فيه بتقديم محتوي جديد او تحسين المحتوي الموجود بالفعل وذلك من خلال [GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io).
+الهواة المجهولين هو مشروع مفتوح المصدر يمكن لأي شخص المشاركه فيه بتقديم محتوي جديد او تحسين المحتوي الموجود بالفعل وذلك من خلال <a href="https://github.com/amateursanonymous/amateursanonymous.github.io">GitHub</a>.
 </p>
 
 </div>
