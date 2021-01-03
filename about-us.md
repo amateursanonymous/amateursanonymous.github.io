@@ -35,7 +35,4 @@
 <li>تقديم النصح والارشاد</li>
 </ul>
  </div>
-<br><br>
-![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
-[Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
 
