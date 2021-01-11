@@ -70,7 +70,7 @@
 عندما تكون الشفافية سائدة يكون لدى العميل او المدير شعور جيد بالراحة والثقة تجاهك 
 العديد من الشركات تلتزم بتطبيق الشفافية مع مستخدميها مثل Google حيث خصصت صفحة لإفشاء عن اخر تطورات ومستجدات عن حوادث سيارتهم ذاتيه القيادة وذلك لبناء علاقة ثقة وولاء مع مستخدميهم 
 حيث لم يكن قبيل الصدفة ان تتربع شركات مثل انتل وجوجل على سوق مجلاتهم ولكن باصرارهم  و تركيزهم الدائم على تطبيق مبدأ الشفافية مع عملائهم 
-<a href="https://www.techradar.com/news/computing-components/processors/pentium-fdiv-the-processor-bug-that-shook-the-world-1270773">Example Source</a>.
+<a href="https://www.techradar.com/news/computing-components/processors/pentium-fdiv-the-processor-bug-that-shook-the-world-1270773">المصدر</a>.
 
 </p>
 
