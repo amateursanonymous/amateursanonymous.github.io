@@ -3,7 +3,7 @@
 
 
     الاسئلة الشائعة   |  معلومات اخري             |  امثلة علي المبادئ             |  الإجتماعات             |  نبذة عن الجمعية             |  مبادئ الجمعية
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|-------------------------|
  [![](https://raw.githubusercontent.com/MohamedGElsharkawy/amateursanonymous.github.io/main/assets/faq_162.png)](https://amateursanonymous.github.io/faq)   | 
 ![](https://github.com/amateursanonymous/amateursanonymous.github.io/blob/main/assets/empower-162.png?raw=true)  | 
  [![](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/innovative-162.png)](https://amateursanonymous.github.io/principles-examples)  | 
