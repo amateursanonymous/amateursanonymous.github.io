@@ -1,6 +1,7 @@
 
 | [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/about-us) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/principles-examples) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
 
+
 ## <center> بـدء إجتمـاع جـديد </center>
  <div dir="RTL">
  <p>يمكن أن يكون بدء اجتماع جمعية الهواة المجهولين سهلاً نسبيًا، قد تختلف اجتماعات جمعية الهواة المجهولين بشكل كبير من حيث الهيكل والشكل، ومع ذلك ، هناك دائمًا ثابت واحد.</p>

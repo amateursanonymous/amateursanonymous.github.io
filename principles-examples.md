@@ -1,6 +1,7 @@
 
 | [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/about-us) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/principles-examples) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
 
+
 ## <center> امثلة على المبادىء </center>
 <div dir="RTL">
   <p><h3>هذه المواقف حدثت بالفعل و الهدف من نشرها هو توضيح و التأكيد على المبادىء الخاصة بالجمعية</h3></p>
