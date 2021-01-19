@@ -1,4 +1,6 @@
-معلومات أخري | [امثلة علي المبادئ](https://amateursanonymous.github.io/principles-examples)  |[الإجتماعات](https://amateursanonymous.github.io/meetings) | [نبذة عن الجمعية](https://amateursanonymous.github.io/about-us) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io)
+
+| [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/about-us) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/principles-examples) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
+
 
 ## <center> امثلة على المبادىء </center>
 <div dir="RTL">
@@ -15,9 +17,9 @@
 <br>
 اولا: الجدال الذى قام به الموظف مع المدير و تفكيره ان التعديل صعب تنفيذه هو انتهاك لمبدأ<b>  عقلية النمو </b><br>
 ثانيا: تفكير الموظف ان هذا التعديل ليس له حاجة هو تفكير سلبى و هو انتهاك لمبدأ <b> الايجابية</b> 
-
+<br>
 ثالثا: هذا الموقف ادى إلى خسارة نقاط من الرصيد الذى كان يمكن استخدامه للتفاوض فى مبدأ <b> التفاوض</b>
-  
+ <br> 
 رابعا: هذا الموقف له علاقة مباشرة بمبداء <b>الكلام</b>  كل كلمة قالها الموظف سوف تشكل الانطباع عند مديره كان عليه فهم التعديل و  اعتباره تحدى و التفكير في كيفية تنفيذه
 </p>
 <br>
@@ -31,9 +33,9 @@
 المبادئ التى تم انتهاكها : <br>
 <br>
   <b>الشفافية</b> : حيث انه كان من المفترض ان يقوم الزميل بمشاركه حاله المهمة بدون ان يضطر مديره لسؤاله مره اخرى
- 
+  <br>
   <b>التفاصيل</b> : حيث ان الموظف اهمل التفاصيل مما سيؤدى الى فقد ثقة واحترام مديرة
- 
+  <br>
   <b>الألتزام</b> : حيث ان الموظف لم يلتزم بالموعد المحدد لتسليم مهمتة
  
 </p>
@@ -70,7 +72,11 @@
 عندما تكون الشفافية سائدة يكون لدى العميل او المدير شعور جيد بالراحة والثقة تجاهك 
 العديد من الشركات تلتزم بتطبيق الشفافية مع مستخدميها مثل Google حيث خصصت صفحة لإفشاء عن اخر تطورات ومستجدات عن حوادث سيارتهم ذاتيه القيادة وذلك لبناء علاقة ثقة وولاء مع مستخدميهم 
 حيث لم يكن قبيل الصدفة ان تتربع شركات مثل انتل وجوجل على سوق مجلاتهم ولكن باصرارهم  و تركيزهم الدائم على تطبيق مبدأ الشفافية مع عملائهم 
+<<<<<<< HEAD
 https://www.techradar.com/news/computing-components/processors/pentium-fdiv-the-processor-bug-that-shook-the-world-1270773
+=======
+<a href="https://www.techradar.com/news/computing-components/processors/pentium-fdiv-the-processor-bug-that-shook-the-world-1270773">[المصدر]</a>.
+>>>>>>> 8add1abc26240c79305e8980c1e2afa67f9b58f3
 
 </p>
 

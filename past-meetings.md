@@ -1,4 +1,6 @@
-معلومات أخري | [امثلة علي المبادئ](https://amateursanonymous.github.io/principles-examples)  |[الإجتماعات](https://amateursanonymous.github.io/meetings) | [نبذة عن الجمعية](https://amateursanonymous.github.io/about-us) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io)
+
+| [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/about-us) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/principles-examples) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
+
 
 ## <center> الإجتماعات السابقة </center>
 
