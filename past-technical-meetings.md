@@ -6,8 +6,8 @@
 
 <table style="display: table;">
   <tr>
- <th style="text-align:center"><a href="https://amateursanonymous.github.io/past-meetings">اجتماعات المهارات الشخصية</a></th>
     <th style="text-align:center"><a href="https://amateursanonymous.github.io/past-technical-meetings">الاجتماعات التكنيكال </a></th>
+ <th style="text-align:center"><a href="https://amateursanonymous.github.io/past-meetings">اجتماعات المهارات الشخصية</a></th>
   </tr>
 </table> 
 
