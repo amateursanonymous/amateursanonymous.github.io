@@ -2,17 +2,7 @@
 | [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/principles-examples) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/about-us) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
 
 
-
-<br/>
-
-<table style="display: table;">
-  <tr>
-    <th style="text-align:center"><a href="https://amateursanonymous.github.io/past-technical-meetings">الاجتماعات التكنيكال </a></th>
- <th style="text-align:center"><a href="https://amateursanonymous.github.io/past-meetings">اجتماعات المهارات الشخصية</a></th>
-  </tr>
-</table> 
-
-## <center> اجتماعات المهارات الشخصية السابقة </center>
+## <center> الاجتماعات  السابقة </center>
 
 ### <center>الإجتماع الأول (14 نوفمبر 2020)</center>
 <p align="center">
