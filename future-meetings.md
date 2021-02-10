@@ -2,12 +2,12 @@
 | [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/principles-examples) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/about-us) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
 
 
-## <center> الإجتماعات القادمة </center>
+## <center> الاجتماعات  القادمة </center>
 
-### <center> الإجتماع الثالث (٢١ يناير ٢٠٢١) </center>
+<br/>
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/mentor-soft-session-3-400.png" alt=" 3 جلسة المنتور او الإرشاد"/></a>
+ لا يوجد اجتماعات
 </p>
 
 <br><br>
